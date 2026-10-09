@@ -1,0 +1,192 @@
+
+=== PAGE 1 ===
+GLS FET B.Tech-(CS&E)
+Faculty of Engineering and Technology
+B.Tech Programme
+Semester VII
+Deep Learning Laboratory
+Course Code: 2604733 Course Credit: 2
+PROGRAM OUTCOMES (POs):
+PO 1 :The graduate will be able to apply the knowledge of mathematics, basic science,
+engineering fundamentals to solve the engineering problems.
+PO 2 :The graduate will be able Identify, formulate and solve computer or IT related
+problems using acquired knowledge.
+PO 3 :The graduate will be able to design software solutions or hardware components as
+per given specifications.
+PO 4 :The  graduate  will  be  able  to  analyse,  interpret,  conduct  investigations  using
+engineering knowledge and provide valid conclusions.
+PO 5 :The graduate will be able to use and demonstrate the use of the modern tools and
+technologies related to the latest trends in the computer industry.
+PO 6 :The graduate will be able to assess societal, health, safety, legal and cultural issues
+and the consequent responsibilities relevant to the professional engineering practice.
+PO 7 :The graduate will be able to understand the impact of the engineering solutions in
+societal and environmental contexts, and demonstrate the knowledge of, and need
+for sustainable development.
+PO 8 :The graduate will be able to apply ethical principles and commit to professional
+ethics and responsibilities.
+PO 9 :The graduate will be able to function effectively as an individual, as a member or as
+a leader in a team.
+PO 10 :The graduate will demonstrate competent Communication skills with respect to
+verbal communication and technical writing like effective reports, documentation
+and presentations.
+PO 11 :The  graduate  will  be  able  to  demonstrate  knowledge  of  Engineering  and
+management  principles  and  will  be  able  to  apply  to  manage  projects  in
+multidisciplinary environments.
+PO 12 :The  graduate will be able to recognize the need for, and will have the ability to
+engage in self learning as per real world requirements.
+Page 84
+=== PAGE 2 ===
+GLS FET B.Tech-(CS&E)
+PROGRAM SPECIFIC OUTCOMES (PSOs):
+Track-3 (Artificial Intelligence and Machine Learning)
+At the the end of the program the graduate would be able to:
+PSO 1:Understand  the  fundamentals  and  underlying  theoretical  and  practical  concepts  of
+different domains of computer science and engineering.
+PSO 2:Identify  and  analyze  the  problem,  select  the  proper  platform  with  appropriate  data
+structure/database, storage and develop the solution with good algorithmic competence
+and proficiency in a wide range of programming languages.
+PSO 3:Develop and Implement the solutions for real world engineering problems using modern
+tools and techniques of artificial intelligence and machine learning.
+Introduction:
+The  Deep  Learning  Laboratory  course  provides  a  hands-on  environment  to  implement  and
+experiment with core concepts and advanced techniques in deep learning. This lab emphasizes
+practical skills in designing, training, and optimizing neural networks using popular frameworks
+such  as  TensorFlow  and PyTorch.  Students  will  work  on  real-world  problems,  exploring
+applications like image recognition, natural language processing, and generative models. Through
+guided experiments and projects, learners will gain proficiency in configuring architectures, tuning
+hyperparameters, and deploying deep learning solutions, preparing them for research or industry
+roles in AI and machine learning.
+Course Objectives:
+Gain practical experience in implementing and training deep learning models using popular
+frameworks like TensorFlow.
+Explore real-world applications of deep learning in fields such as computer vision, natural
+language processing, and generative models.
+Develop skills in optimizing deep learning architectures, including hyperparameter tuning
+and model evaluation.
+Build  and  deploy  end-to-end  deep  learning  projects,  from data  preprocessing  to  model
+deployment, for real-world problem-solving.
+Course Duration: The course duration is 40 sessions of 60 minutes each.
+Course Content:
+Module
+No.
+Modules/Sub-Modules No. of
+Sessions
+%
+Weight
+age
+I Practicals  based  on  Neural  Networks:  Neural
+Networks,  Multilayer  Perceptron,  feedforward  and
+back propagation algorithm, Digit classification using
+MNIST dataset.
+08 20%
+II Practicals  based  on Autoencoders  and  Variational
+Autoencoders,  Convolutional  Autoencoders  and
+Generative adversarial networks.
+08 20%
+Page 85
+=== PAGE 3 ===
+GLS FET B.Tech-(CS&E)
+III Practicals  based  on Convolution  Neural  Networks
+(CNN).  Application:  Digit  classification,  object
+detection
+08 20%
+IV Practicals  based  on  Recurrent  neural  networks,
+LSTM networks, neural sentiment analysis.
+08 20%
+V Practicals based on Transfer Learning: Yolo, VGG,
+ResNet,etc.
+08 20%
+Course Outcomes: At the end of the course the students should be able to:
+CO 1:Understand and implement basic neural networks in python programming.
+CO 2:Implement autoencoders and GAN to real time applications
+CO 3:Implement Convolution neural networks for solving problems.
+CO 4:Implement recurrent neural networks to real world problems.
+CO 5:Implement transfer learning networks to solve problems.
+Teaching Scheme:
+Teaching Scheme (Hours) : 40
+Course Credit: 4
+Theory Tutorial Practical
+- - 40
+Examination Scheme:
+Examination Scheme
+External Internal
+CEC Total Marks
+Assignment Attendance
+50 20 20 10 100
+Teaching Methods:
+The following pedagogical tools will be used to teach this course: 
+1. Demonstration
+2. Practical Implementation
+3. Discussions
+4. Assignments
+5. Presentations
+Supplementary Readings:
+1. Ahmed Menshawy(2018). Deep Learning By Example. 1st Edition, Packt publications.
+2. Luca Massaron, Alberto Boschetti, et.al. (2018). Tensorflow Deep Learning Projects. 1st 
+Edition, Packt publications.
+3. Josh Patterson, Adam Gibson (2018). Deep Learning A Practitioner’s Approach. 2nd 
+Edition, O’Reilly.
+Page 86
+=== PAGE 4 ===
+GLS FET B.Tech-(CS&E)
+List of Journals / Periodicals / Magazines / Newspapers/ etc.:
+The students can refer to the link below to get relevant information pertaining to the subject.
+1. https://archive.nptel.ac.in/courses/106/106/106106184/  
+2. https://archive.nptel.ac.in/courses/106/105/106105215/  
+3. https://archive.nptel.ac.in/courses/106/106/106106201/  
+Session Plan:
+Session Topic
+1 Practicals based on Neural Networks: Neural Networks, 
+2 Practicals based on Neural Networks: Neural Networks, 
+3 Multilayer Perceptron, 
+4 Multilayer Perceptron, 
+5 feedforward and back propagation algorithm, 
+6 feedforward and back propagation algorithm, 
+7 Digit classification using MNIST dataset.
+8 Digit classification using MNIST dataset.
+9 Practicals based on Autoencoders 
+10 Practicals based on Autoencoders 
+11 Variational Autoencoders
+12 Variational Autoencoders
+13 Convolutional Autoencoders
+14 Convolutional Autoencoders
+15 Generative adversarial networks.
+16 Generative adversarial networks.
+17 Practicals based on Convolution Neural Networks (CNN).
+18 Practicals based on Convolution Neural Networks (CNN).
+19 Practicals based on Convolution Neural Networks (CNN).
+20 Practicals based on Convolution Neural Networks (CNN).
+21 Application: Digit classification, 
+22 Application: Digit classification, 
+23 object detection
+24 object detection
+25 Practicals based on Recurrent neural networks, 
+26 Practicals based on Recurrent neural networks, 
+27 LSTM networks, 
+28 LSTM networks, 
+29 LSTM networks, 
+30 neural sentiment analysis.
+Page 87
+=== PAGE 5 ===
+GLS FET B.Tech-(CS&E)
+31 neural sentiment analysis.
+32 neural sentiment analysis.
+33 Practicals based on Transfer Learning: Yolo, 
+34 Practicals based on Transfer Learning: Yolo, 
+35 VGG,
+36 VGG,
+37 VGG,
+38 ResNet,etc.
+39 ResNet,etc.
+40 ResNet,etc.
+Suggested Practical Distribution:
+The suggested distribution as per Bloom’s taxonomy is as follows:
+Distribution of practicals for course delivery and evaluation
+Remember Understand Apply Analyse Evaluate Create
+20% 20% 20% 10% 20% 10%
+Instructional Method:
+1. The course delivery method will depend upon the requirement of content and the needs of
+students.
+2. The internal evaluation will be done on the basis of a practical exam and a continuous
+evaluation of students.
+Page 88

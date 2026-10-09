@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+.venv/
+venv/
+env/
+ENV/
+*.log
+.pytest_cache/
+.coverage
+htmlcov/
+.idea/
+.vscode/
+
+# Dynamic temporary data directories
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+data/outputs/*
+!data/outputs/.gitkeep
+data/public_url.txt
+data/tunnel_info.json
+**/pdf_renders/

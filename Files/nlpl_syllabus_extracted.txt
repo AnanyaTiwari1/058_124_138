@@ -1,0 +1,226 @@
+
+=== PAGE 1 ===
+GLS FET B.Tech-(CS&E)
+Faculty of Engineering and Technology
+B. Tech (CS&E) Programme
+Semester VII
+Practicals of Natural Language Processing
+Course Code: 2604734                                                                       Course Credit: 2
+Programme Objectives (PO):
+PO 1 : The graduate will be able to apply the knowledge of mathematics,  basic science,
+engineering fundamentals to solve the engineering problems.
+PO 2 : The  graduate  will  be  able  Identify,  formulate  and  solve  computer  or  IT  related
+problems using acquired knowledge.
+PO 3 : The graduate will be able to design software solutions or hardware components as per
+given specifications.
+PO 4 : The  graduate  will  be  able  to  analyse,  interpret,  conduct  investigations  using
+engineering knowledge and provide valid conclusions.
+PO 5 : The graduate will be able to use and demonstrate the use of the modern tools and
+technologies related to the latest trends in the computer industry.
+PO 6 : The graduate will be able to assess societal, health, safety, legal and cultural issues and
+the consequent responsibilities relevant to the professional engineering practice.
+PO 7 : The graduate will be able to understand the impact of the engineering solutions in
+societal and environmental contexts, and demonstrate the knowledge of, and need for
+sustainable development.
+PO 8 : The graduate will be able to apply ethical principles and commit to professional ethics
+and responsibilities.
+PO 9 : The graduate will be able to function effectively as an individual, as a member or as a
+leader in a team.
+PO 10 : The graduate will demonstrate competent Communication skills with respect to verbal
+communication  and  technical  writing  like  effective  reports,  documentation  and
+presentations.
+PO 11 : The graduate will be able to demonstrate knowledge of Engineering and management
+principles  and  will  be  able  to  apply  to  manage  projects  in  multidisciplinary
+environments.
+PO 12 : The graduate will be able to recognize the need for, and will have the ability to engage
+in self learning as per real world requirements.
+Page 89
+=== PAGE 2 ===
+GLS FET B.Tech-(CS&E)
+Page 90
+=== PAGE 3 ===
+GLS FET B.Tech-(CS&E)
+PROGRAM SPECIFIC OUTCOMES (PSOs):
+Track-3 (Artificial Intelligence and Machine Learning)
+At the the end of the program the graduate would be able to:
+PSO 1: Understand  the  fundamentals  and  underlying  theoretical  and  practical  concepts  of
+different domains of computer science and engineering.
+PSO 2: Identify  and analyze the problem,  select the proper  platform with  appropriate data
+structure/database, storage and develop the solution with good algorithmic competence
+and proficiency in a wide range of programming languages.
+PSO 3: Develop and Implement the solutions for real world engineering problems using modern
+tools and techniques of artificial intelligence and machine learning.
+Introduction:
+Natural Language Processing (NLP) is a field that enables computers to understand and
+generate  human  language.  It  combines  linguistics,  computer  science,  and  artificial
+intelligence.  NLP  powers  applications  like chat-bots,  machine  translation,  and  sentiment
+analysis. This course covers key concepts such as tokenization, part-of-speech tagging, and
+named entity recognition. 
+Course Objectives:
+ To implement different text representation and feature extraction techniques.
+ To implement semantic analysis and modeling techniques in NLP. 
+ To apply advanced deep learning models for NLP applications. 
+ To apply predictive analytics and deploy NLP models for real-world use cases.
+Course Duration: The course duration is 40 sessions of 60 minutes each.
+Course Content:
+Module
+No. Modules/Sub-Modules
+No. of
+Sessions
+Marks
+Weightage
+(%)
+I Implement  text  preprocessing  techniques,
+including tokenization, removing stop words,
+and  punctuation,  and  applying  stemming  /
+lemmatization.
+08 20%
+II Implement Bag of Words and TF-IDF for text
+vectorization  and  compare  the  effectiveness
+of both methods.
+Demonstrate the N-gram modeling to analyze
+and  establish  the  probability  distribution
+across sentences and explore the utilization of
+unigrams,  bigrams,  and  trigrams  in  diverse
+English sentences to illustrate the impact of
+08 20%
+Page 91
+=== PAGE 4 ===
+GLS FET B.Tech-(CS&E)
+varying  n-gram  orders  on  the  calculated
+probabilities.
+Perform NER and POS tagging on text data to
+identify entities and their syntactic roles. 
+III Build  a  text  classification  model  using
+Word2Vec or GloVe embeddings to classify
+text data. 
+Perform sentiment analysis on social media
+text to classify the sentiments.
+08 20%
+IV Using  pre-trained  models  for  NLP  tasks
+(BERT, GPT, etc.).
+Advanced  syntactic  and  semantic  analysis
+using deep learning.
+08 20%
+V Building models for text generation (chatbots)
+and text summarization.
+Deploy a text classification model as a REST
+API that can be used for real-time predictions.
+08 20%
+Course Outcomes: At the end of the course the students should be able to: 
+CO 1: Understand the NLP pipeline, including text preprocessing, tokenization, and
+vectorization techniques. 
+CO 2: Apply various text representation methods such as Bag of Words, TF-IDF, and
+Word2Vec for feature extraction. 
+CO 3: Analyze  semantic  relationships  in  text  using  lexical  semantics,  word
+embeddings, and co-occurrence models. 
+CO 4: Implement deep learning techniques like RNNs, LSTMs, and Transformers for
+advanced NLP applications.
+CO 5: Evaluate NLP models based on metrics such as accuracy, precision, recall, and
+deploy them for real-world applications.
+Teaching Scheme:
+Teaching Scheme (Hours) : 40
+Course Credit: 4
+Theory Tutorial Practical
+- - 40
+Page 92
+=== PAGE 5 ===
+GLS FET B.Tech-(CS&E)
+Examination Scheme:
+Examination Scheme
+External Internal
+CEC Total Marks
+Assignment Attendance
+50 20 20 10 100
+Teaching Methods:
+The following pedagogical tools will be used to teach this course: 
+1. Demonstration
+2. Discussions
+3. Assignments
+4. Presentations
+5. Practical Implementations
+Supplementary Readings:
+1. Jurafsky, D., & Martin, J. H. (2024). Speech and language processing (3rd ed.). Prentice 
+Hall.
+2. Geetha, T. V. (2024). Understanding natural language processing: Machine learning and 
+deep learning perspectives (1st ed.). Pearson.
+3. Siddiqui, T., & Tiwary, U. S. (2024). Natural language processing and information retrieval.
+Oxford University Press.
+4. Kulkarni, A., & Shivananda, A. (2019). Natural language processing recipes: Unlocking text
+data with machine learning and deep learning using Python. Apress.
+5. Bird, S., Klein, E., & Loper, E. (2009). Natural language processing with Python. O’Reilly 
+Media.
+List of Journals / Periodicals / Magazines / Newspapers/ etc.:
+The students can refer to the link below to get relevant information pertaining to the subject.
+1. https://archive.nptel.ac.in/courses/106/105/106105158/
+2. https://archive.nptel.ac.in/courses/106/106/106106211/  
+3. https://archive.nptel.ac.in/courses/106/101/106101007/  
+Session Plan:
+Session Topic
+1 Implement text preprocessing techniques, including tokenization
+2 Implement text preprocessing techniques, including tokenization
+3 Implement text preprocessing techniques, removing stop words
+4 Implement text preprocessing techniques, removing stop words
+5 Implement text preprocessing techniques, removing punctuation
+6 Implement text preprocessing techniques, removing punctuation
+7 Applying stemming / lemmatization
+8 Applying stemming / lemmatization
+Page 93
+=== PAGE 6 ===
+GLS FET B.Tech-(CS&E)
+9 Implement Bag of Words for text vectorization
+10 Implement TF-IDF for text vectorization and compare the effectiveness of both
+methods
+11 Demonstrate  the  N-gram  modeling  to  analyze  and  establish  the  probability
+distribution across sentences
+12 Explore the utilization of unigrams
+13 Explore the utilization of  bigrams
+14 Using trigrams in diverse English sentences to illustrate the impact of varying n-
+gram orders on the calculated probabilities
+15 Perform  NER  and  POS  tagging  on  text  data  to  identify  entities  and  their
+syntactic roles
+16 Perform  NER  and  POS  tagging  on  text  data  to  identify  entities  and  their
+syntactic roles
+17 Build a text classification model using Word2Vec to classify text data
+18 Build a text classification model using Word2Vec to classify text data
+19 Build a text classification model using Word2Vec to classify text data
+20 Build a text classification model using GloVe embeddings to classify text data
+21 Build a text classification model using GloVe embeddings to classify text data
+22 Perform sentiment analysis on social media text to classify the sentiments
+23 Perform sentiment analysis on social media text to classify the sentiments
+24 Perform sentiment analysis on social media text to classify the sentiments
+25 Using pre-trained models for NLP tasks (BERT, GPT, etc.)
+26 Using pre-trained models for NLP tasks (BERT, GPT, etc.)
+27 Using pre-trained models for NLP tasks (BERT, GPT, etc.)
+28 Using pre-trained models for NLP tasks (BERT, GPT, etc.)
+29 Advanced syntactic and semantic analysis using deep learning
+30 Advanced syntactic and semantic analysis using deep learning
+31 Advanced syntactic and semantic analysis using deep learning
+32 Advanced syntactic and semantic analysis using deep learning
+33 Building models for text generation (chatbots) and text summarization
+34 Building models for text generation (chatbots) and text summarization
+35 Building models for text generation (chatbots) and text summarization
+36 Building models for text generation (chatbots) and text summarization
+37 Deploy a text classification model as a REST API that can be used for real-time 
+predictions
+38 Deploy a text classification model as a REST API that can be used for real-time 
+predictions
+39 Deploy a text classification model as a REST API that can be used for real-time 
+predictions
+40 Deploy a text classification model as a REST API that can be used for real-time
+predictions
+Page 94
+=== PAGE 7 ===
+GLS FET B.Tech-(CS&E)
+Suggested Practical Distribution:
+The suggested distribution as per Bloom’s taxonomy is as follows:
+Distribution of  practicals for course delivery and evaluation
+Remember Understand Apply Analyse Evaluate Create
+10% 20% 20% 20% 20% 10%
+Instructional Method: 
+1. The course delivery method will depend upon the requirement of content and the needs of
+students. 
+2. The internal evaluation will be done on the basis of a practical exam and a continuous
+evaluation of students.
+3. Students will use supplementary resources such as online videos, NPTEL videos, E courses.
+Page 95
